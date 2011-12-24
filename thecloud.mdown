@@ -1,6 +1,28 @@
-﻿Cloudbusting
-===
+﻿#Cloudbusting
+Nick Ruest
+John Fink
 
-What is “the cloud”? Is it the end of systems departments as we know it? Or is it merely another tool in the systems librarian's arsenal?
+## What is “the cloud”? 
 
-The “cloud” is a lie. Don’t believe the hype, it has been here this entire time and for all intents and purposes it is a marketing term. Now that we have quickly shaved that yak, what can this “cloud” do for your library? Well, actually a whole lot!
+Is it the end of systems departments as we know it? Or is it merely another tool in the systems librarian's arsenal?
+
+The “cloud” is a lie. Don’t believe the hype, it has been here this entire time and for all intents and purposes it is a marketing term. To put it simply, cloud computing refers to the delivery of scalable IT resources over the Internet. Have a difficult IT department, and want to work on some rapid prototyping of a library application? Don't have a local storage solution or need a viable off-site storage option? Then the cloud might just be perfect for you and your library!
+Now that we have quickly shaved that yak, what can this “cloud” do for your library? Well, actually a whole lot!
+
+## What can I do in "the cloud"?
+
+* Cloud based ILS
+  * McMaster University hosted solution
+  * Conifier consortium
+* Hosted application
+  * Drupal, Wordpress
+  
+
+* Heroku, Bitnami
+  * Agile development platform
+* Amazon Elastic Compute Cloud (EC2)
+  * Move library web applications of local hardware
+  * Development
+* Amazon Simple Storage Service (S3)
+  * Storage solution
+  * Digital Preservation option?
