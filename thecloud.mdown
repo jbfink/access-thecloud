@@ -33,3 +33,12 @@ Now that we have quickly shaved that yak, what can this _cloud_ do for your libr
 * Amazon Simple Storage Service (S3)
   * Storage solution
   * Digital Preservation option?
+
+## What can I do in a local cloud?
+* Storage
+  * gluster
+* EC2-alikes
+  * Eucalyptus
+  * KVM-ish
+
+
