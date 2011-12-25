@@ -40,5 +40,7 @@ Now that we have quickly shaved that yak, what can this _cloud_ do for your libr
 * EC2-alikes
   * Eucalyptus
   * KVM-ish
+  * FAWN
 
+## When local, and when outsource?
 
