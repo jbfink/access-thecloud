@@ -37,6 +37,7 @@ Now that we have quickly shaved that yak, what can this _cloud_ do for your libr
 ## What can I do in a local cloud?
 * Storage
   * gluster
+  * Cassandra / other distrib key-value
 * EC2-alikes
   * Eucalyptus
   * KVM-ish
