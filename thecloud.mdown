@@ -42,6 +42,6 @@ Now that we have quickly shaved that yak, what can this _cloud_ do for your libr
   * Eucalyptus
   * KVM-ish
   * FAWN
-
+  * cloud-crowd (snerk)
 ## When local, and when outsource?
 
