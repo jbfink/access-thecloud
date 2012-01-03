@@ -14,6 +14,22 @@ Do you use a web based email interface, or do you use GMail or Google Docs? Have
 
 Have a difficult IT department, and want to work on some rapid prototyping of a library application? Don't have a local storage solution or need a viable off-site storage option? Then the cloud might just be perfect for you and your library!
 
+### probably edit this heavily or take it out:
+Consider the typical workflow for a new, non-trivial library service, hosted locally:
+1) Have an idea.
+2) Ask your systems department about implementing your idea.
+2a) Get told that you can't do your idea because there's no equipment for it, they don't have the time to do it, it's too complicated, or it involves unsupported software.
+3) Give up.
+4) Revisit in a year, repeat steps 1-3.
+
+Whereas, in a cloud scenario:
+1) Have an idea
+2) Spin up a Amazon EC2/Heroku/Bitnami/etc that day for a small fee.
+3) Get working!
+
+###
+
+
 Now that we have quickly shaved that yak, what can this _cloud_ do for your library? Well, actually a whole lot!
 
 ## What can I do in "the cloud"?
