@@ -2,6 +2,8 @@
 ===
 
 Nick Ruest
+Nick Ruest is the Digital Preservation Librarian, Repository Architect and Digitization Coordinator at McMaster University. He oversees the technical aspects of the library's digital initiatives, develops policies and workflows for digital preservation, digitization and metadata delivery, writes really bad code, and manages a number of servers. He is also the Vice-President/President elect of the Ontario Library and Technology Association as well as the President of the McMaster University Academic Librarians Association and a CAUT Defence Fund trustee. In his spare time, albeit very spare, he thinks about writing music again, and reads way too many graphic novels.
+
 John Fink
 
 ## What is “the cloud”? 
@@ -16,29 +18,16 @@ Have a difficult IT department, and want to work on some rapid prototyping of a 
 
 Consider the typical workflow for a new, non-trivial library service, hosted locally: you have an idea, and you want to implement it. You proceed to ask your systems department about implementing your idea. You probably presented with one of the following varations of _no_: you are told that you can't do your idea because there's no equipment for it, it's too complicated, or it involves unsupported software. For there you most likely give up, or wait about a year and hope things have changed a it and repeat steps 1-3. Whereas! In a cloud scenario, you have an idea, you scurry on over to Amazon EC2/Heroku/Bitnami and spin up some sort of instance that day for a small fee, and get that idea working!!!
 
-###
-
 Now that we have quickly shaved that yak, what can this _cloud_ do for your library? Well, actually a whole lot!
 
-## What can I do in "the cloud"?
+## What can I do my library do in "the cloud"?
 
-* Cloud based ILS
-  * McMaster University hosted solution
-  * Conifier consortium
-* Hosted application
-  * Drupal, Wordpress
-  
+Besides the usual suspects of Google Docs, GMail, Rdio, Netflix, etc., Your library's ILS can be "cloud" based.For examples, see Project Conifer the Ontario Academic Library Evergreen consortium, or McMaster University's hosted Symphony ILS. You can also take advanage of Content Management Systems such as Wordpress and Drupal in the cloud (wordpress.com and drupalgardens.com). If your of the hacker pedigree, you can deploy and scale applications on a wide variety of platforms at Heroku (heroku.com). If you want your own customizable instances of Wordpress, Drupal, Joomla, or Redmine checkout BitNami (bitnami.org) which touts a simple "one-click cloud hosting" option. Finally, just need server and don't want to have to worry about maintaining any hardware, or local IT can't help you out? You can create some highly customizable instances from a wide variety of Linux flavours of even Windows Server! (aws.amazon.com/ec2) 
 
-* Heroku, Bitnami
-  * Agile development platform
-* Amazon Elastic Compute Cloud (EC2)
-  * Move library web applications of local hardware
-  * Development
-* Amazon Simple Storage Service (S3)
-  * Storage solution
-  * Digital Preservation option?
+[debating on adding another sentence for s3 and digital preservation]
 
 ## What can I do in a local cloud?
+
 * Storage
   * gluster
   * Cassandra / other distrib key-value
@@ -47,5 +36,6 @@ Now that we have quickly shaved that yak, what can this _cloud_ do for your libr
   * KVM-ish
   * FAWN
   * cloud-crowd (snerk)
+
 ## When local, and when outsource?
 
