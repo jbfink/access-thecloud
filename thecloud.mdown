@@ -7,7 +7,7 @@ Nick Ruest & John Fink
 Nick Ruest is the Digital Preservation Librarian, Repository Architect and Digitization Coordinator at McMaster University. He oversees the technical aspects of the library's digital initiatives, develops policies and workflows for digital preservation, digitization and metadata delivery, writes really bad code, and manages a number of servers. He is also the Vice-President/President elect of the Ontario Library and Technology Association as well as the President of the McMaster University Academic Librarians Association and a CAUT Defence Fund trustee. In his spare time, albeit very spare, he thinks about writing music again, and reads way too many graphic novels.
 
 
-John Fink bio goes here
+John Fink is the Digital Scholarship Librarian at McMaster University and is currently attached to McMaster's Sherman Centre for Digital Scholarship.  He looks after the Centre's computing infrastructure, handles internal and external communications for the Centre, and is, as much as anyone is, the Centre's project manager. He does not so much write bad code as excretes it.
 
 ## What is “the cloud”? 
 
