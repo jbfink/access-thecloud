@@ -29,7 +29,7 @@ Short answer, a lot! Your library's ILS can be "cloud" based. For example, see P
 
 But let's say you have a decent size systems presence already, and you're just looking for ideas on how to use your existing hardware and expertise more flexibly.  Software packages like Gluster (http://glusterfs.org) can help you combine many disparate hard drives -- even on completely separate computers -- into one large virtual drive.  If you're a database nerd, it might be worth looking into the new technology of key-value stores like Facebook's (jf: verify) Cassandra technology. 
 
-Amazon's EC2 platform has a number of locally implementable competitors as well. If you have a beefy enough server PC and a bit of know-how, software like Eucalyptus, Openstack or KVM can help you create virtual machines on the fly. 
+Amazon's EC2 platform has a number of locally implementable competitors as well. If you have a beefy enough server PC and a bit of know-how, software like Eucalyptus, Openstack or KVM can help you create virtual machines on the fly with a variety of operating systems installed. These VMs can then be used without worrying that a crash will affect your entire infrastructure.
 
 ## What can I do in a local cloud?
 
