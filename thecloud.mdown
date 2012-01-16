@@ -25,7 +25,7 @@ Consider the typical workflow for a new, non-trivial library service, hosted loc
 
 Short answer, a lot! Your library's ILS can be "cloud" based. For example, see Project Conifer the Ontario Academic Library Evergreen consortium, or McMaster University's hosted Symphony ILS. You can also take advantage of Content Management Systems such as Wordpress and Drupal in the cloud (http://wordpress.com and http://drupalgardens.com). If you're more of the hacker type, you can deploy and scale applications on a wide variety of platforms at Heroku (http://heroku.com). If you want your own customizable instances of Wordpress, Drupal, Joomla, or Redmine check out BitNami (http://bitnami.org) which touts a simple "one-click cloud hosting" option. Just need a server and don't want to have to worry about maintaining any hardware, or local IT can't help you out? You can create some highly customizable instances from a wide variety of Linux flavours or even Windows Server! (http://aws.amazon.com/ec2) Finally, need somewhere to store some files, or thinking about another option for that off-site digital preservation option? You can start small with cloud storage solutions like Dropbox (http://dropbox.com) and go large with Amazon S3 (http://aws.amazon.com/s3/) or Duracloud (http://duracloud.org).
 
-
+But let's say you have a decent size systems presence already, and you're just looking for ideas on how to use your existing hardware and expertise more flexibly.  Software packages like Gluster (http://glusterfs.org) can help you combine many disparate hard drives -- even on completely separate computers -- into one large virtual drive. 
 
 ## What can I do in a local cloud?
 
