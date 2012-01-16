@@ -11,9 +11,9 @@ John Fink is the Digital Scholarship Librarian at McMaster University and is cur
 
 ## What is “the cloud”? 
 
-Is it the end of systems departments as we know it? Or is it merely another tool in the systems librarian's arsenal?
+Have you ever had an IT related idea you want to implement at your library, only to be told that your library doesn't have the resources or the time to help you? Chances are you have, and you're also likely to have heard something about cloud computing, and maybe even been told that cloud computing is a way to get your ideas moving quickly without having to worry about things like computing infrastructure. Is it the end of systems departments as we know it? Or is it merely another tool in the systems librarian's arsenal?
 
-The _cloud_ is a **lie**. Don’t believe the hype. It is not some mythical internet saviour come to save us all.  It has been here this entire time and for all intents and purposes it is a marketing term. The cloud has existed ever since computers have been able to talk to other computers; early BBS systems were cloud systems just as much as Amazon's virtual server infrastructure is. To put it simply, cloud computing refers to the delivery of scalable IT resources over the Internet. 
+The _cloud_ is a **lie**. Don’t believe the hype. It is not some mythical internet saviour.  It has been here this entire time and for all intents and purposes it is a marketing term. The cloud has existed ever since computers have been able to talk to other computers; early BBS systems were cloud systems just as much as Amazon's virtual server infrastructure is. To put it simply, cloud computing refers to the delivery of scalable IT resources over the Internet. 
 
 Do you use a web based email interface, or do you use GMail or Google Docs? Have you streamed a movie or TV show from Netflix?  You've played in the cloud. 
 
