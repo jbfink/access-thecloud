@@ -31,4 +31,4 @@ But let's say you have a decent size systems presence already, and you're just l
 
 Amazon's EC2 platform has a number of locally implementable competitors as well. If you have a beefy enough server PC and a bit of know-how, software like Eucalyptus, Openstack or KVM can help you create virtual machines on the fly with a variety of operating systems installed. These VMs can then be used without worrying that a crash will affect your entire infrastructure.
 
-So the cloud is not just out *there*, it's in your *here* as well. What direction should your cloud experimentations take? 
+So the cloud is not just out *there*, it's in your *here* as well. What direction should your cloud experimentations take? It depends on your abilities and where you want to go!
